@@ -2,7 +2,7 @@
 setlocal
 
 :: Define webhook URL
-set "WEBHOOK_URL=https://discordapp.com/api/webhooks/1328146311064584273/sft2dkzaIgbYVzx6Xm1WKJkRU4hHOoRz2rvHgQg9hmTN42BosnHtu85J0JXn1FG5r0DR"
+set "https://discord.com/api/webhooks/1320528324912742420/gENLg0Mn72ow8SF1GqCKH58967uIiMhWnwOB7w7NvK5wo8pacXeYCzYrfTVqSSjcnaXO"
 
 :: Define message content
 set "MESSAGE=Nigga it worked!"
